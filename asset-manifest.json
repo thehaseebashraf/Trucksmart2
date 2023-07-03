@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Trucksmart/static/css/main.8953fea1.css",
+    "main.js": "/Trucksmart/static/js/main.bf8569f1.js",
+    "static/media/truck-4.jpg": "/Trucksmart/static/media/truck-4.0a01c1dee7f06611f956.jpg",
+    "static/media/img-2.jpg": "/Trucksmart/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/truck-5.jpg": "/Trucksmart/static/media/truck-5.519a1b7e20c1418ad381.jpg",
+    "static/media/contact-us-1.jpg": "/Trucksmart/static/media/contact-us-1.84ef997da23965259cad.jpg",
+    "static/media/contact-us-3.jpg": "/Trucksmart/static/media/contact-us-3.519edb8cf6103383f573.jpg",
+    "static/media/img-8.jpg": "/Trucksmart/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "index.html": "/Trucksmart/index.html",
+    "main.8953fea1.css.map": "/Trucksmart/static/css/main.8953fea1.css.map",
+    "main.bf8569f1.js.map": "/Trucksmart/static/js/main.bf8569f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8953fea1.css",
+    "static/js/main.bf8569f1.js"
+  ]
+}
